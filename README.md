@@ -1,4 +1,4 @@
-\# 📊 Customer Churn Prediction Project
+\#  Customer Churn Prediction Project
 
 
 
@@ -10,7 +10,7 @@ This project helps identify customers who are likely to leave (churn), enabling 
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 
 
@@ -32,7 +32,7 @@ This project helps identify customers who are likely to leave (churn), enabling 
 
 
 
-\## 🚀 How to Run
+\##  How to Run
 
 
 
